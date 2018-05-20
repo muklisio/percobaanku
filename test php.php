@@ -9,7 +9,6 @@ echo 'aku adalah uji coba git';
 
 $param = DateTime::RFC822;
 echo $param;
-aku sedang penasaran dengan ini sistem 
 
 $param1 = DateTime::RFC822;
 echo $param1;
